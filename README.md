@@ -45,11 +45,5 @@ License
 This project is licensed under the GNU General Public License. See the LICENSE file for details.
 Contact
 
-For questions or support, feel free to reach out:
-
-    Website: https://armlinsoft.net
-    Email: contact@armlinsoft.net
-
-
 
 
