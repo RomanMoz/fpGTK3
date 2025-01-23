@@ -37,6 +37,16 @@ Create a simple GTK3 application in Free Pascal:
 
 See: gtktest.pas
 
+Examples
+
+The repository includes several examples to help you get started:
+
+    Simple Window: A basic GTK3 window with event handling.
+    Button Demo: Add buttons and respond to clicks.
+    Graph Viewer: A more advanced example using Free Pascal and GTK3 to render graphs.
+
+Browse the /examples folder for more code samples.
+
 Contributing
 
 Contributions are welcome! If you encounter bugs or have feature requests, please open an issue or submit a pull request.
