@@ -40,6 +40,7 @@ See: gtktest.pas
 Contributing
 
 Contributions are welcome! If you encounter bugs or have feature requests, please open an issue or submit a pull request.
+
 License
 
 This project is licensed under the GNU General Public License. See the LICENSE file for details.
